@@ -27,6 +27,7 @@ This is a Bookstore project built on the MERN (MongoDB, Express.js, React.js, No
    cd bookstore-project
 
 ## Project structure
+```
 bookstore-project/
 |-- server/
 |   |-- controllers/
@@ -44,6 +45,8 @@ bookstore-project/
 |   |-- package.json
 |-- .gitignore
 |-- README.md
+
+```
 
 ## Contributing
 If you'd like to contribute to this project, please follow these steps:
